@@ -1,8 +1,8 @@
-/* Autor: Andriks Imanol Ruiz M醨tinez, Realizado: 10/02/2022
+/* Autor: Andriks Imanol Ruiz M谩rtinez, Realizado: 10/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programaci髇 Estructrada 
+Materia: Programaci贸n Estructrada 
 Ciclo: 01/2022
-Este es un programa de condicionales de Lenguaje C de la materia de Programaci髇 Estructurada
+Este es un programa de condicionales de Lenguaje C de la materia de Programaci贸n Estructurada
 Muestra el uso de:
 
     -Variables enteras y flotantes
@@ -10,12 +10,12 @@ Muestra el uso de:
     -scanf<
     -El uso de include para las librerias
     -condicional if
-	-Comentarios para la doumentaci髇 interna del programa.
+	-Comentarios para la documentaci贸n interna del programa.
     
 */
 #include<stdio.h>
 int main() {
-	//Declaraci髇
+	//Declaraci贸n
 	int arduinos;
 	float total, descuento=0;
 	//Entrada de datos
@@ -23,7 +23,7 @@ int main() {
 	scanf("%d", &arduinos);
 	//Procedimiento
 	total=arduinos*350.0;
-/*condici髇 */	if (arduinos>=5) {
+/*condici贸n */	if (arduinos>=5) {
 		descuento=total*0.2;
 }
 //salida
