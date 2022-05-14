@@ -13,7 +13,7 @@ Muestra el uso de:
     <li>El uso de include para las librerias</li>
     <li>condicional if</li>
     <li>condicional ternario</li>
-<li>Comentarios para la doumentación interna del programa.</li>
+<li>Comentarios para la documentación interna del programa.</li>
     </ul>
     </p>
 <br>
